@@ -115,17 +115,18 @@ const Page = () => {
             >
               <h3 className="text-4xl text-accent">Let&apos;s work together</h3>
               <p className="text-white/60">
-                I'm always excited to take on new challenges and collaborate on
-                innovative projects. Whether you need a blockchain developer, a
-                fullstack web developer, or a mobile app developer, I'm here to
-                help turn your ideas into reality. With my diverse skill set and
-                passion for technology, I am committed to delivering
-                high-quality solutions that meet your needs.
+                I&apos;m always excited to take on new challenges and
+                collaborate on innovative projects. Whether you need a
+                blockchain developer, a fullstack web developer, or a mobile app
+                developer, I&apos;m here to help turn your ideas into reality.
+                With my diverse skill set and passion for technology, I am
+                committed to delivering high-quality solutions that meet your
+                needs.
               </p>
               <p className="text-white/60 mt-5">
                 Feel free to reach out to discuss potential opportunities, ask
-                questions, or just say hello. Let's create something amazing
-                together!
+                questions, or just say hello. Let&apos;s create something
+                amazing together!
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">

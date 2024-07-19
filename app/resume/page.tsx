@@ -231,7 +231,7 @@ const Page = () => {
                   <h3 className="text-4xl font-bold">{skills.title}</h3>
                   <p className="max-w-[600px] text-white/60 space-y-5 mx-auto xl:mx-0">
                     {skills.description.map((item) => (
-                      <ul>
+                      <ul key={item.name}>
                         <p className="text-white/90 font-semibold text-xl">
                           {item.name}
                         </p>
