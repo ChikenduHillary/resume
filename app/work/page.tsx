@@ -89,7 +89,7 @@ const Page = () => {
                 {project.category}
               </h2>
               <p className="text-white/60">{project.description}</p>
-              <ul className="flex gap-4">
+              <ul className="flex gap-4 w-full flex-wrap">
                 {project.stack.map((item: any, i: number) => (
                   <li key={item.name} className="text-xl text-accent">
                     {item.name}
